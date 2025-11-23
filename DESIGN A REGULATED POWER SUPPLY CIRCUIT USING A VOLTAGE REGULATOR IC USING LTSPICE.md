@@ -7,8 +7,12 @@
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
 ## Tabulations
+![WhatsApp Image 2025-11-23 at 16 41 15_0067eeb5](https://github.com/user-attachments/assets/78bd09a3-d8f0-4a02-8ec2-35f50b8cecdf)
+
 
 ## Graph
+![WhatsApp Image 2025-11-23 at 16 41 55_928e9555](https://github.com/user-attachments/assets/d615bef1-eb3d-4baf-8b00-8598025895c8)
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
