@@ -8,7 +8,13 @@
 
 
 # Tabulation with readings
+![WhatsApp Image 2025-11-23 at 17 00 13_44da0ecf](https://github.com/user-attachments/assets/f8166b2c-4fc8-44f9-aa2d-dae4b75be68c)
+
 
 ## Semilog plotted Graph
+![WhatsApp Image 2025-11-23 at 17 00 57_6b6230c4](https://github.com/user-attachments/assets/ace14e49-6ff4-482a-ae52-100d952c8a66)
+
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+![WhatsApp Image 2025-11-23 at 17 01 09_7c08b8cd](https://github.com/user-attachments/assets/32a042cd-aab6-493d-bbc7-7f3aef28f40a)
